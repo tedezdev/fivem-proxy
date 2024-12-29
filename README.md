@@ -3,5 +3,5 @@
 ```linux
 apt install -y nginx
 ```
-## Nginx üzerinde yapılabilecek örnek işlemler
+## Proxy ve Yapılandırma Örnekleri
 - [Fivem Proxy](https://github.com/tedezdev/nginx/tree/main/fivem) 
