@@ -4,9 +4,4 @@
 apt install -y nginx
 ```
 ## Nginx üzerinde yapılabilecek örnek işlemler
-- Örnek olarak gösterilen example.conf dosyasını, nginx'in "sites-available" dizininde oluşturmanız gerekmektedir.
-# Fivem Sunucu Yapılandırması
-```text
-set adhesive_cdnKey "yourSecret"
-fileserver_add ".*" "http://proxy.example.com/files"
-```
+- [Fivem Proxy](https://github.com/tedezdev/nginx/tree/main/fivem) 
